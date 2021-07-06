@@ -1,0 +1,2 @@
+rootProject.name = "c346_SA_Assignment_marcel"
+include ':app'
